@@ -11,9 +11,10 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/8bit-ydv-blue?logo=github" height="25"   />
+  
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=maserati&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/8bit-ydv-blue?logo=github" height="25"   />
 </div>
 
 ###
