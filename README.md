@@ -83,6 +83,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/8bit-ydv/8bit-ydv/output/snake.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/8bit-ydv/8bit-ydv/output/snake.svg" alt="snake animation"/>
+</p>
