@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/HEY-WELCOME-t?logo=huggingface" height="25"   />
   <img src="https://img.shields.io/badge/TO-MY❤️-orange?logo=semrush" height="25"   />
   <img src="https://img.shields.io/badge/PROFILE-8A2BE2?logo=semrush" height="25"   />
-  <img src="https://img.shields.io/badge/8bit-ydv-blue?logo=github" height="25"   />
+  <img src="https://img.shields.io/badge/8bit-ydv?logo=github" height="25"   />
 </div>
 
 ###
